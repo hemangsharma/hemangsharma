@@ -1,6 +1,6 @@
-<a href="http://sharmahemang.com" target="_blank"><img src="logo.png" width="80px" height="80px"></a>
+<a href="http://sharmahemang.com" target="_blank"><img src="logo.png" width="95px" height="95px"></a>
 
-**Dreamer | Designer | Developer**
+<h1>**Dreamer | Designer | Developer**</h1>
 
 - 👋  Hi, I’m @hemangsharma <br /><br />
 - 👀  I am creative, artistic and ambitious with a talent of thinking outside the box. My ikigai is to evolve myself and my skills to magnificent zenith.<br /><br/>
