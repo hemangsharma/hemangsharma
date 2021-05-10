@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="colors.css">
 <h1><a href="http://sharmahemang.com" target="_blank"><img src="logo.png" alt="Hemang Logo" width="90px" height="90px"></a>Dreamer | Designer | Developer</h1>
 
 - 👋  Hi, I’m @hemangsharma <br /><br />
