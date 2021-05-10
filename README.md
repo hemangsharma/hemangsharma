@@ -1,4 +1,4 @@
-<img src="logo.png" style="postion=fixed;left=0px;top=0px">
+<a herf="http://sharmahemang.com"><img src="logo.png"></a>
 
 **Dreamer | Designer | Developer**
 
