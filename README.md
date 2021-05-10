@@ -1,4 +1,4 @@
-<img src="logo.png" style="postion=fixed, left=0">
+<img src="logo.png" style="postion=fixed;left=0px;top=0px">
 
 **Dreamer | Designer | Developer**
 
