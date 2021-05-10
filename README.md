@@ -1,6 +1,6 @@
-**Dreamer | Designer | Developer**
+<img src="logo.png" style="postion=fixed, left=0">
 
-<img src="logo.png">
+**Dreamer | Designer | Developer**
 
 - 👋  Hi, I’m @hemangsharma <br /><br />
 - 👀  I am creative, artistic and ambitious with a talent of thinking outside the box. My ikigai is to evolve myself and my skills to magnificent zenith.<br /><br/>
