@@ -1,4 +1,4 @@
-<a href="http://sharmahemang.com" target="_blank"><img src="logo.png" width="20px" height="20px"></a>
+<a href="http://sharmahemang.com" target="_blank"><img src="logo.png" width="80px" height="80px"></a>
 
 **Dreamer | Designer | Developer**
 
