@@ -1,12 +1,10 @@
-<a href="http://sharmahemang.com" target="_blank"><img src="logo.png" width="95px" height="95px"></a>
-
-<h1>**Dreamer | Designer | Developer**</h1>
+<h1><a href="http://sharmahemang.com"><img src="logo.png" alt="Hemang Logo" width="90px" height="90px"></a>Dreamer | Designer | Developer</h1>
 
 - 👋  Hi, I’m @hemangsharma <br /><br />
 - 👀  I am creative, artistic and ambitious with a talent of thinking outside the box. My ikigai is to evolve myself and my skills to magnificent zenith.<br /><br/>
 - 🌱  I’m currently learning ... software-development + web-devlopment + game-devlopment <br /><br />
 - 📫  How to reach me ... http://contact.sharmahemang.com <br/>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.linkedin.com/in/sharmahemang/
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.linkedin.com/in/sharmahemang/
 
 <!---
 hemangsharma/hemangsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
