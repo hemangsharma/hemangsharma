@@ -27,7 +27,13 @@
 <li>SRM University</li>
 
 <h1>Publication</h1>
-<a href="https://www.irjet.net/archives/V7/i5/IRJET-V7I533.pdf"><li>Cyborgs: Machine in Disguise?</li></a>
+<a href="https://www.irjet.net/archives/V7/i5/IRJET-V7I533.pdf"><li>Cyborgs: Machine in Disguise?</li></a><br>
+
+<h1>Statistics</h1>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hemangsharma&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsharma&theme=blue-red)
 
 <h1>Contact</h1>
 <a href="https://linkedin.com/in/sharmahemang">LinkedIn</a><br>
@@ -37,6 +43,10 @@
 
 
 <h2>For more information visit <a href="http://sharmahemang.com">www.sharmahemang.com</a></h2>
+
+
+
+
 
 <!---
 hemangsharma/hemangsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
