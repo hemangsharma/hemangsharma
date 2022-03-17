@@ -36,10 +36,10 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsharma&theme=blue-red)
 
 <h1>Contact</h1>
-<a href="https://linkedin.com/in/sharmahemang">LinkedIn</a><br>
-<a href="mailto:sharmahemang2000@gmail.com">Email 1</a><br>
-<a href="mailto:i@sharmahemang.com">Email 2</a><br>
-<a href="https://keybase.io/sharmahemang">Keybase</a><br>
+<a href="https://linkedin.com/in/sharmahemang" target="_blank">LinkedIn</a><br>
+<a href="mailto:sharmahemang2000@gmail.com" target="_blank">Email 1</a><br>
+<a href="mailto:i@sharmahemang.com" target="_blank">Email 2</a><br>
+<a href="https://keybase.io/sharmahemang" target="_blank">Keybase</a><br>
 
 
 <h2>For more information visit <a href="http://sharmahemang.com">www.sharmahemang.com</a></h2>
