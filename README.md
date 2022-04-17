@@ -6,7 +6,7 @@
 <h3>iOS Develope  - <a href="https://wehear.in">WeHear</a></h3>
 <li>Completed 2 months Internship.</li>
 <li>Created an application basic for WeHear Hearing Solutions.</li>
-<li">Applied my knowledge to optimize the app design.</li>
+<li>Applied my knowledge to optimize the app design.</li>
 
 <h3>Brand Representative - <a href="https://verzeo.com">Verzeo</a></h3>
 <li>Completed 2 months Internship.</li>
@@ -37,9 +37,9 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsharma&theme=blue-red)
 
 <h1>Contact</h1>
-<a href="https://linkedin.com/in/sharmahemang" target="_blank">LinkedIn</a><br>
-<a href="mailto:sharmahemang2000@gmail.com" target="_blank">Email</a><br>
-<a href="https://www.instagram.com/hemang_hs/" target="_blank">Instagram</a><br>
+<a href="https://linkedin.com/in/sharmahemang" target="_blank">->LinkedIn</a><br>
+<a href="mailto:sharmahemang2000@gmail.com" target="_blank">->Email</a><br>
+<a href="https://www.instagram.com/hemang_hs/" target="_blank">->Instagram</a><br>
 
 <!---
 hemangsharma/hemangsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
