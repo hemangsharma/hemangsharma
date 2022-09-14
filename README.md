@@ -29,6 +29,11 @@
 
 <h1>Publication</h1>
 <a href="https://www.irjet.net/archives/V7/i5/IRJET-V7I533.pdf"><li>Cyborgs: Machine in Disguise?</li></a><br>
+<a href="https://www.irjet.net/archives/V9/i9/IRJET-V9I923.pdf"><li>Augmented Reality: An Emerging Paradigm</li></a><br>
+
+<h1>LOR</h1>
+<img src="https://github.com/hemangsharma/mycert/blob/main/WeHear.png">
+<img src="https://github.com/hemangsharma/mycert/blob/main/BalBharti.png">
 
 <h1>Statistics</h1>
 
