@@ -1,6 +1,6 @@
 <h1>About</h1><br>
 
-<p>Ever since I was a little kid, software development has been my passion. Throughout high school and college, I latched on to any ideas for projects I could get, moving from "Hello World" all the way to a simple Augmented Reality game, with dozens of projects in between.Prolific, full stack web developer with a passion for metrics and beating former "best-yets." Passionate about building world class web applications. I am the type of person who welcomes challenges. I am creative, artistic and ambitious with a talent of thinking outside the box. I created this website to grow my network.</p>
+<p>Ever since I was a little kid, software development has been my passion. Throughout high school and college, I latched on to any ideas for projects I could get, moving from "Hello World" all the way to a simple Augmented Reality game, with dozens of projects in between.Prolific, full stack web developer with a passion for metrics and beating former "best-yets." Passionate about building world class web applications. I am the type of person who welcomes challenges. I am creative, artistic and ambitious with a talent of thinking outside the box.</p>
 			
 <h1>Work Experince</h1>
 <h3>iOS Develope  - <a href="https://wehear.in">WeHear</a></h3>
