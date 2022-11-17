@@ -39,8 +39,8 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsharma&theme=blue-red)
 
 <h1>Contact</h1>
-<a href="https://linkedin.com/in/sharmahemang" target="_blank">-> LinkedIn</a><br>
 <a href="mailto:sharmahemang2000@gmail.com" target="_blank">-> Email</a><br>
+<a href="https://linkedin.com/in/sharmahemang" target="_blank">-> LinkedIn</a><br>
 <a href="https://www.instagram.com/hemang_hs/" target="_blank">-> Instagram</a><br>
 
 <!---
