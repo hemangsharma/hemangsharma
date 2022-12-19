@@ -52,9 +52,9 @@
 
 # Visitor Counter:<br>
 [![](https://visitcount.itsvg.in/api?id=hemangsharma&icon=0&color=3)](https://visitcount.itsvg.in)
-<!---a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=hemangsharma&label=Profile%20Views&color=3&icon=0&pretty=false" />
-</a--->
+<!--a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=hemangsharma&label=Profile%20Views&color=3&icon=1&pretty=true" />
+</a-->
 
 <!---
 hemangsharma/hemangsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
