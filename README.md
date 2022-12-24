@@ -47,9 +47,17 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 # Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharmahemang)<br>
-<a href="mailto:sharmahemang2000@gmail.com" target="_blank">-> Email</a><br>
+<ul>
+	<li><a href="mailto:contact@sharmahemang.com" target="_blank">Email</a></li>
+	<li><a href="https://linkedin.com/in/sharmahemang/" target="_blank">LinkedIn</a></li>
+	<li><a href="https://www.hackerrank.com/sharmahemang?hr_r=1" target="_blank">HackerRank</a></li>
+	<li><a href="https://www.researchgate.net/profile/Hemang-Sharma-4" target="_blank">ResearchGate</a></li>
+	<li><a href="https://twitter.com/hemanghs/" target="_blank">Twitter</a></li>
+	<li><a href="https://www.instagram.com/hemang_hs/" target="_blank">Instagram</a></li>
+	<li><a href="https://www.tiktok.com/@hemang_hs?lang=en" target="_blank">TikTok</a></li>
+</ul>
 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharmahemang<br> --->
 <!---
 hemangsharma/hemangsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
