@@ -50,15 +50,17 @@
 <ul>
 	<li><a href="mailto:contact@sharmahemang.com" target="_blank">Email</a></li>
 	<li><a href="https://linkedin.com/in/sharmahemang/" target="_blank">LinkedIn</a></li>
-	<li><a href="https://www.hackerrank.com/sharmahemang?hr_r=1" target="_blank">HackerRank</a></li>
-	<li><a href="https://www.researchgate.net/profile/Hemang-Sharma-4" target="_blank">ResearchGate</a></li>
-	<li><a href="https://twitter.com/hemanghs/" target="_blank">Twitter</a></li>
-	<li><a href="https://www.instagram.com/hemang_hs/" target="_blank">Instagram</a></li>
-	<li><a href="https://www.tiktok.com/@hemang_hs?lang=en" target="_blank">TikTok</a></li>
+	
 </ul>
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharmahemang<br> --->
 <!---
 hemangsharma/hemangsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+<li><a href="https://www.hackerrank.com/sharmahemang?hr_r=1" target="_blank">HackerRank</a></li>
+	<li><a href="https://www.researchgate.net/profile/Hemang-Sharma-4" target="_blank">ResearchGate</a></li>
+	<li><a href="https://twitter.com/hemanghs/" target="_blank">Twitter</a></li>
+	<li><a href="https://www.instagram.com/hemang_hs/" target="_blank">Instagram</a></li>
+	<li><a href="https://www.tiktok.com/@hemang_hs?lang=en" target="_blank">TikTok</a></li>
 --->
