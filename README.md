@@ -4,6 +4,9 @@ You can click the Preview link to take a look at your changes.-->
 <h1>About</h1><br>
 
 <p>Ever since I was a little kid, software development has been my passion. Throughout high school and college, I latched on to any ideas for projects I could get, moving from "Hello World" all the way to a simple Augmented Reality game, with dozens of projects in between.Prolific, full stack web developer with a passion for metrics and beating former "best-yets." Passionate about building world class web applications. I am the type of person who welcomes challenges. I am creative, artistic and ambitious with a talent of thinking outside the box.</p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsharma&langs_count=15&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+
 			
 <h1>Work Experince</h1>
 <h3>iOS Develope  - <a href="https://wehear.in">WeHear</a></h3>
@@ -39,7 +42,7 @@ You can click the Preview link to take a look at your changes.-->
 # Statistics:<br>
 ![](https://github-readme-stats.vercel.app/api?username=hemangsharma&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hemangsharma&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsharma&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsharma&langs_count=15&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)]()
 <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsharma&theme=blue-red)<br>-->
 
 # GitHub Trophies:<br>
