@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.-->
 
 <p>Ever since I was a little kid, software development has been my passion. Throughout high school and college, I latched on to any ideas for projects I could get, moving from "Hello World" all the way to a simple Augmented Reality game, with dozens of projects in between.Prolific, full stack web developer with a passion for metrics and beating former "best-yets." Passionate about building world class web applications. I am the type of person who welcomes challenges. I am creative, artistic and ambitious with a talent of thinking outside the box.</p>
 
-15![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsharma&langs_count=&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsharma&langs_count=15&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
 			
 <h1>Work Experince</h1>
