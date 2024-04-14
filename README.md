@@ -1,10 +1,15 @@
 <!--hemangsharma/hemangsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.-->
 <!--<img src="https://github.com/hemangsharma/hemangsharma/blob/main/New-file.gif" width="200" loop=infinite/> <img src="https://github.com/hemangsharma/hemangsharma/blob/main/BackgroundImage.jpeg" width="680"/>-->
-<img src="https://github.com/hemangsharma/hemangsharma/blob/main/BackgroundImage.jpeg">
+<img src="https://github.com/hemangsharma/hemangsharma/blob/main/linkedinbackgorund2.001.jpeg">
 <h1>About</h1><br>
 
-<p>Ever since I was a little kid, software development has been my passion. Throughout high school and college, I latched on to any ideas for projects I could get, moving from "Hello World" all the way to a simple Augmented Reality game, with dozens of projects in between.Prolific, full stack web developer with a passion for metrics and beating former "best-yets." Passionate about building world class web applications. I am the type of person who welcomes challenges. I am creative, artistic and ambitious with a talent of thinking outside the box.</p>
+<p>
+
+<li>Proficient in Python, SQL, and MATLAB for developing data analysis solutions and machine learning models.</li>
+<li>Experienced in applying statistical methods and machine learning algorithms to derive insights and solve real-world problems.</li>
+<li>Strong background in computer science and data engineering, with a focus on building innovative applications and optimizing processes.</li>
+</p><br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsharma&langs_count=15&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 <!--
