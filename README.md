@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.-->
 </ul>
 
 <p align=center>
-<img height="25" src="https://komarev.com/ghpvc/?username=hemangsharma&color=brightgreen" />
+<img height="25" src="https://komarev.com/ghpvc/?username=hemangsharma&color=red" />
 <a href="https://github.com/hemangsharma">
 </a>
 </p>
