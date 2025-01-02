@@ -41,3 +41,8 @@ You can click the Preview link to take a look at your changes.-->
 	<li><a href="https://www.hackerrank.com/sharmahemang?hr_r=1" target="_blank">HackerRank</a></li>
 </ul>
 
+<p align=center>
+<img height="25" src="https://komarev.com/ghpvc/?username=hemangsharma&color=brightgreen" />
+<a href="https://github.com/hemangsharma">
+</a>
+</p>
