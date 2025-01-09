@@ -3,6 +3,7 @@
   <img src="https://github.com/hemangsharma/hemangsharma/blob/main/linkedinbackgorund2.001.jpeg">
 </p>
 
+---
 <h1>About</h1><br>
 
 <p>
@@ -11,20 +12,27 @@
 <li>Strong background in computer science and data engineering, with a focus on building innovative applications and optimizing processes.</li>
 </p><br>
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsharma&langs_count=15&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=hemangsharma&show_icons=true&theme=dark">
 </p>
+
+---
 
 <h1>Publication</h1>
 <a href="https://www.irjet.net/archives/V7/i5/IRJET-V7I533.pdf"><li>Cyborgs: Machine in Disguise?</li></a>
 <a href="https://www.irjet.net/archives/V9/i9/IRJET-V9I923.pdf"><li>Augmented Reality: An Emerging Paradigm</li></a>
 <a href="https://www.linkedin.com/pulse/patience-perseverance-always-bears-hemang-sharma/"><li>Patience And Perseverance Always Bears</li></a>
 
+---
+
 <h1>GitHub Trophies:</h1><br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hemangsharma&theme=matrix&no-frame=true&no-bg=true&margin-w=4">
 </p><br>
+
+---
 
 <h1>Contact:</h1>
 <ul>
