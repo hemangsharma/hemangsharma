@@ -75,11 +75,6 @@ I'm a passionate data scientist with a knack for turning data into actionable in
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website">
   </a>
 </p>
-<p align="center">
-  <a href="https://www.sharmahemang.com" target="_blank">
-      <img src="https://sharmahemang.com/Untitled 5.png" width=250px>
-  </a>
-</p>
 
 ---
 
