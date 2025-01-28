@@ -11,7 +11,7 @@
   <img height="25" src="https://komarev.com/ghpvc/?username=hemangsharma&color=red" alt="Profile Views" />
 </p>
 
----
+
 
 <h2>🌟 About Me</h2>
 
@@ -24,7 +24,7 @@ I'm a passionate data scientist with a knack for turning data into actionable in
   <li>💻 Strong background in computer science and data engineering, focusing on building innovative applications and optimizing processes.</li>
 </ul>
 
----
+
 
 <h2>📈 My Skills</h2>
 
@@ -32,7 +32,7 @@ I'm a passionate data scientist with a knack for turning data into actionable in
   <img src="https://skillicons.dev/icons?i=python,cpp,javascript,matlab,html,css,react,mysql,postgresql,aws,azure,docker,kubernetes,github,latex,npm,tensorflow" alt="Skills">
 </p>
 
----
+
 
 <h2>📊 GitHub Stats</h2>
 
@@ -42,7 +42,7 @@ I'm a passionate data scientist with a knack for turning data into actionable in
   <img src="https://github-readme-stats.vercel.app/api?username=hemangsharma&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
----
+
 
 <h2>📝 Publications</h2>
 
@@ -52,7 +52,7 @@ I'm a passionate data scientist with a knack for turning data into actionable in
   <li><a href="https://www.linkedin.com/pulse/patience-perseverance-always-bears-hemang-sharma/">Patience And Perseverance Always Bears</a></li>
 </ul>
 
----
+
 
 <h2>🏆 GitHub Trophies</h2>
 
@@ -60,7 +60,7 @@ I'm a passionate data scientist with a knack for turning data into actionable in
   <img src="https://github-profile-trophy.vercel.app/?username=hemangsharma&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
 
----
+
 
 <h2>🌐 Connect with Me</h2>
 
@@ -76,6 +76,5 @@ I'm a passionate data scientist with a knack for turning data into actionable in
   </a>
 </p>
 
----
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
