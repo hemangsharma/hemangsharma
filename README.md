@@ -1,10 +1,10 @@
 <!-- hemangsharma/hemangsharma GitHub Profile README -->
 
 <p align="center">
-  <img src="https://github.com/hemangsharma/hemangsharma/blob/main/linkedinbackgorund2.001.jpeg" alt="Background Image">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20Hello&section=header&animation=twinkling&fontAlign=50&fontSize=50&textBg=true&strokeWidth=0" alt="Background Image">
 </p>
 
-<h1 align="center">👋 Hello, I'm Hemang Sharma</h1>
+<h1 align="center">I'm Hemang Sharma</h1>
 <h3 align="center">Data Scientist | Machine Learning Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
@@ -23,7 +23,6 @@ I'm a passionate data scientist with a knack for turning data into actionable in
   <li>📊 Experienced in applying statistical methods and machine learning algorithms to derive insights and solve real-world problems.</li>
   <li>💻 Strong background in computer science and data engineering, focusing on building innovative applications and optimizing processes.</li>
 </ul>
-
 
 
 <h2>📈 My Skills</h2>
@@ -78,3 +77,7 @@ I'm a passionate data scientist with a knack for turning data into actionable in
 
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
+
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer">
+</p>
