@@ -16,14 +16,14 @@
 <h2>🌟 About Me</h2>
 
 <p>
-I'm a passionate data scientist with a knack for turning data into actionable insights. Here's what I bring to the table:
-</p>
-<ul>
-  <li>🔍 Proficient in <strong>Python</strong>, <strong>SQL</strong>, and <strong>MATLAB</strong> for developing data analysis solutions and machine learning models.</li>
-  <li>📊 Experienced in applying statistical methods and machine learning algorithms to derive insights and solve real-world problems.</li>
-  <li>💻 Strong background in computer science and data engineering, focusing on building innovative applications and optimizing processes.</li>
-</ul>
 
+I’m a passionate Data Scientist with 5+ years of experience in transforming complex data into meaningful insights. With a strong foundation in Python, SQL, and machine learning, I specialize in building data pipelines, predictive models, and interactive visualizations that drive business decisions.
+
+I am currently seeking an opportunity where I can apply my diverse skill set and relevant work experience to make a significant impact in a forward-thinking organization. I love solving real-world problems through data and believe in the power of collaboration to unlock new opportunities.
+
+Over the years, I've worked on projects that involve processing vast datasets, such as a pipeline that handled over 700 million NYC taxi records, drastically improving data accessibility and speed of insights. I’ve also developed machine learning models for tasks like image classification and customer lifetime value prediction, consistently achieving accuracy rates of 80% or higher.
+
+</p>
 
 <h2>📈 My Skills</h2>
 
