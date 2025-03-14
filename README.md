@@ -33,20 +33,23 @@
 
 ### **[Breast Cancer Patient Dashboard](https://github.com/hemangsharma/Breast-Cancer-Patient-Dashboard)**
 🔹 Built an interactive dashboard using Streamlit.
+<p align="center">
+  <img src="https://github.com/hemangsharma/Breast-Cancer-Patient-Dashboard/blob/main/s1.png" width="500">
+</p>
 
 ### **[NASDAQ Analysis](https://github.com/hemangsharma/DataAnalysis?tab=readme-ov-file)**
 🔹 Time series forecasting using Python & D3.js.
 
 <p align="center">
-  <img src="https://github.com/hemangsharma/DataAnalysis/blob/main/dashboard/o1.png" width="300">
-  <img src="https://github.com/hemangsharma/DataAnalysis/blob/main/dashboard/o2.png" width="300">
+  <img src="https://github.com/hemangsharma/DataAnalysis/blob/main/dashboard/o1.png" width="500">
+  <img src="https://github.com/hemangsharma/DataAnalysis/blob/main/dashboard/o2.png" width="500">
 </p>
 
 ### **[Warren Buffett Portfolio Analysis](https://github.com/hemangsharma/Warren-Buffett-Portfolio-Analysis)**
 🔹 Warren Buffett’s investment portfolio analyzer.
 
 <p align="center">
-  <img src="https://github.com/hemangsharma/Warren-Buffett-Portfolio-Analysis/blob/main/s1.png" width="300">
+  <img src="https://github.com/hemangsharma/Warren-Buffett-Portfolio-Analysis/blob/main/s1.png" width="500">
 </p>
 
 
