@@ -12,9 +12,6 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/hemangsharma/hemangsharma/output/snake.svg" alt="Snake animation" />
-
-
 ## 🌟 About Me
 
 - 🧠 **Data Scientist** with 5+ years of experience in **machine learning, AI, and big data analytics**.
